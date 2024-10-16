@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(236, 177, 135);
+    
+}
+h1{
+   margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+.content{
+    display: flex;
+    
+    font-family:  'Times New Roman';
+   font-size: 17px;
+}
+.contentLeft{
+    border: solid;
+    margin: 10px;
+    border-radius: 5px;  
+ float:left;
+ padding: 50px;
+
+background-color: rgb(255, 127, 52);
+}
+.contentRight{
+    border: solid;
+    margin: 10px;
+    border-radius: 5px;  
+    float:right;
+    padding: 50px;
+    
+    background-color: rgb(253, 83, 4);
+}
+img{
+    width: 500px;
+    height: 300px;   
+
+}
+pre{
+    margin-left: 10px;
+}
+a{
+    margin-left: 10px;
+}
